@@ -1,7 +1,6 @@
 {
   "framework": "nextjs",
   "buildCommand": "bun run build",
-  "public": true,
   "trailingSlash": true,
   "github": { "silent": true },
   "redirects": [
