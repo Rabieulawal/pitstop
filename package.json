@@ -2,7 +2,6 @@
   "private": true,
   "scripts": {
     "build": "lerna run build",
-    "prepare": "bun run build",
     "clean": "lerna run clean",
     "test": "bun test",
     "test:e2e": "bun run clean && bun run build && bun run test && node scripts/dist-smoke.cjs && bun run --cwd docs build",
