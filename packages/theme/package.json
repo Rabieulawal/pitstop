@@ -28,7 +28,6 @@
   "sideEffects": false,
   "scripts": {
     "build": "bun run build.ts",
-    "prepare": "bun run build",
     "watch": "bun run --watch build.ts",
     "clean": "rm -rf ./dist"
   },
