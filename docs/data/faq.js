@@ -13,7 +13,7 @@ const faqs = [
     id: 'who-can-participate',
     question: 'Who can participate?',
     answer:
-      'Any teenager (ages 13–18), from anywhere in the world, is welcome to join. You don’t need to be a Hack Club member — just show up, build something awesome, and have fun.'
+      'Any teenager (ages 13–18), from anywhere in the world, is welcome to join.'
   },
   {
     id: 'hardware-experience',
@@ -25,19 +25,19 @@ const faqs = [
     id: 'japan-trip',
     question: 'How does the Japan trip work?',
     answer:
-      'The top builders from the challenge will be invited to travel to Japan to build and race real go-karts together. Exact dates, destination, and travel details will be announced soon.'
+      'The quilified builders will be will be invited to japan where they will build and  race there go karts '
   },
   {
     id: 'what-are-we-building',
-    question: 'What are we building?',
+    question: 'What can i build',
     answer:
-      'Whatever you can dream up in hardware or automotive software: sensor dashboards, go-kart telemetry, custom controllers, LED builds, and more. The sky’s the limit.'
+      'Whatever you can dream up in hardware or automotive software: sensor dashboards, go-kart telemetry, custom controllers, LED builds, and more. The sky’s the limit. your project just has to be orignal'
   },
   {
     id: 'how-much-does-it-cost',
     question: 'How much does it cost?',
     answer:
-      'Nothing! Pitstop is completely free to participate, and travel for the finalists in Japan will be covered.'
+      'Nothing! Pitstop will provide free acomodation and food, you can also get travel stripnids to cover the cost of your flight'
   },
   {
     id: 'how-do-i-join',
