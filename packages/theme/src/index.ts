@@ -51,10 +51,10 @@ const theme = {
     sunken: colors.smoke,
     border: colors.smoke,
     placeholder: colors.muted,
-    secondary: colors.slate,
-    primary: colors.red,
+    secondary: colors.green,
+    primary: colors.blue,
     muted: colors.muted,
-    accent: colors.blue,
+    accent: colors.green,
     modes: {
       dark: {
         text: colors.white,
@@ -247,7 +247,7 @@ const theme = {
     cta: {
       variant: 'buttons.primary',
       fontSize: 2,
-      backgroundImage: t => t.util.gx('orange', 'red')
+      backgroundImage: t => t.util.gx('green', 'blue')
     },
     ctaLg: {
       variant: 'buttons.primary',
@@ -255,7 +255,7 @@ const theme = {
       fontSize: 3,
       px: 4,
       py: 3,
-      backgroundImage: t => t.util.gx('orange', 'red')
+      backgroundImage: t => t.util.gx('green', 'blue')
     }
   },
   cards: {
