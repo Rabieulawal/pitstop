@@ -1,7 +1,3 @@
-// ✏️ Pitstop FAQ — edit the questions & answers below.
-// Add or remove items freely; the accordion renders them in the order listed.
-// Each item needs a unique `id` (used for accessibility + anchor links).
-
 const faqs = [
   {
     id: 'what-is-pitstop',

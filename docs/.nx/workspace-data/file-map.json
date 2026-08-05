@@ -1,0 +1,48 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.6.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "components/color-switcher.js",
+        "hash": "12350173868835545218"
+      },
+      {
+        "file": "components/faq.js",
+        "hash": "1793289923233019461"
+      },
+      {
+        "file": "data/faq.js",
+        "hash": "4476158643756962769"
+      },
+      {
+        "file": "next.config.js",
+        "hash": "3196289377139275388"
+      },
+      {
+        "file": "package.json",
+        "hash": "146278549254380369"
+      },
+      {
+        "file": "pages/_app.js",
+        "hash": "12685283584289972417"
+      },
+      {
+        "file": "pages/_document.js",
+        "hash": "4331130504422034812"
+      },
+      {
+        "file": "pages/index.js",
+        "hash": "6585970862598628494"
+      },
+      {
+        "file": "vercel.json",
+        "hash": "7847928634273688459"
+      }
+    ]
+  },
+  "externalNodesHash": "3244421341483603138"
+}
